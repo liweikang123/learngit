@@ -1,2 +1,3 @@
  i am liweikang
  i very love the world
+ git has a mutable index called stage
